@@ -1,8 +1,7 @@
 # MCP Security Checklist
 
-Copy this into your project. Check each item before deploying any MCP-powered system.
+This checklist highlights potential risk areas commonly observed in MCP projects, it was designed to guide developers in strengthening the security of their implementations. Each item is categorized by priority to indicate its relative importance.
 
----
 
 ## TRANSPORT & NETWORK
 - [ ] All MCP endpoints served over HTTPS (TLS 1.3)
